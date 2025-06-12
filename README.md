@@ -52,7 +52,7 @@ The system uses 3 specialist scripts that work as a team:
 
 #### **3. Install the 3 Bots**
 - Install each of the three scripts below. For each one, click the link and then the "Install" button on the Tampermonkey screen.
-  - **[Link to Bot A (The Applier)](URL_TO_YOUR_GITHUB_FILE_A)**
+  - **[Link to Bot A (The Applier)](https://github.com/cavizu/Oracle-Cloud-VM-Bot/raw/refs/heads/main/robo-A-aplicador.user.js)**
   - **[Link to Bot B (The Job Navigator)](URL_TO_YOUR_GITHUB_FILE_B)**
   - **[Link to Bot C (The URL Watcher)](URL_TO_YOUR_GITHUB_FILE_C)**
 
