@@ -1,3 +1,7 @@
+[Leia este guia em Português](README-PT.md)
+
+---
+
 # Oracle Cloud "Always Free" Instance Automation Bots
 
 Tired of getting the "Out of capacity" error when trying to create your free Ampere A1 instance on Oracle Cloud? This set of 3 scripts for the **Tampermonkey** browser extension automates the trial-and-error process, saving you time and patience.
