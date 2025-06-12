@@ -48,9 +48,9 @@ O sistema usa 3 scripts especialistas que trabalham em equipe:
 
 #### **3. Instale os 3 Robôs**
 - Instale cada um dos três scripts abaixo. Para cada um, clique no link e depois no botão "Instalar" na tela do Tampermonkey.
-  - **[Link para o Robô A (Aplicador)](URL_DO_SEU_GITHUB_AQUI)**
-  - **[Link para o Robô B (Navegador)](URL_DO_SEU_GITHUB_AQUI)**
-  - **[Link para o Robô C (Vigia)](URL_DO_SEU_GITHUB_AQUI)**
+  - **[Link para o Robô A (Aplicador)](https://github.com/cavizu/Oracle-Cloud-VM-Bot/raw/refs/heads/main/robo-A-aplicador.user.js)**
+  - **[Link para o Robô B (Navegador)](https://github.com/cavizu/Oracle-Cloud-VM-Bot/raw/refs/heads/main/robo-B-navegador.user.js)**
+  - **[Link para o Robô C (Vigia)](https://github.com/cavizu/Oracle-Cloud-VM-Bot/raw/refs/heads/main/robo-C-vigia.user.js)**
 
 #### **4. Edite os Scripts (Passo Crucial!)**
 - No painel do Tampermonkey, você precisará editar os Robôs A e B para que eles funcionem na sua conta específica. As instruções estão dentro de cada arquivo de script.
